@@ -1,1 +1,1 @@
-movie-app-taupe-five.vercel.app
+https://movie-app-taupe-five.vercel.app/
